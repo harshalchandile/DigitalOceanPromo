@@ -5,8 +5,8 @@ Digital Ocean Promo Code for New Year 2018
 
 2) Enter the Promocode LOWENDBOX and get additional $15 in your Digital Ocean Account. You can find the Promo box in  __settings -> billing__  near to payment method.
 
-#### Other Promocodes:
-DROPLET10
+### Other Promocodes:
+    DROPLET10
     ALLSSD10
     DODEPLOY
     SHIPITFAST10
